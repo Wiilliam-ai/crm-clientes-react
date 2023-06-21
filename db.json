@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "William",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Jesus",
+      "email": "jesus@gmail.com",
+      "empresa": "HiCode",
+      "telefono": 975624456,
+      "id": 2
+    },
+    {
+      "nombre": "Jennifer",
+      "email": "jennifer@gmail.com",
+      "empresa": "Zombie Con Drama",
+      "telefono": 933456247,
+      "id": 3
+    }
+  ]
+}
